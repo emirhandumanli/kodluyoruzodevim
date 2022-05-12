@@ -1,0 +1,27 @@
+body{
+    background-color: #F1DDBF;
+    font-family: 'Roboto', sans-serif;
+    } 
+span{
+    color:   #525E75; 
+    text-align: center;
+    }    
+
+ h2{
+     text-align: center;
+ }   
+ h3{
+     text-align: center;
+ }
+
+ ul.kategoriler{
+     list-style-type: none;
+     padding-left: 0;
+ }
+ img{
+    display: block; margin: auto;
+ }
+ p.action{
+     text-align: center;
+     font-size: 20px;
+ }
